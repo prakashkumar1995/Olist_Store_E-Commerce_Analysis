@@ -8,9 +8,13 @@ Key Insights & KPIs:
 Analyzed payment statistics for Weekdays vs Weekends based on order purchase timestamps.
 
 Identified the number of orders with a review score of 5 and payment type as Credit Card.
+
 Calculated the average delivery time for orders in the Pet Shop category.
+
 Analyzed average order price and payment values for customers from São Paulo city.
+
 Evaluated the relationship between shipping duration and customer review scores.
+
 Built interactive dashboards to monitor sales performance, customer behavior, payment patterns, and delivery efficiency.
 
 Tools & Technologies-
