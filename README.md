@@ -6,6 +6,7 @@ Developed an end-to-end e-commerce analytics solution using SQL, Excel, Power BI
 Key Insights & KPIs:
 
 Analyzed payment statistics for Weekdays vs Weekends based on order purchase timestamps.
+
 Identified the number of orders with a review score of 5 and payment type as Credit Card.
 Calculated the average delivery time for orders in the Pet Shop category.
 Analyzed average order price and payment values for customers from São Paulo city.
